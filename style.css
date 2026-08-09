@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+  box-sizing: border-box;
+  resize: vertical;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
